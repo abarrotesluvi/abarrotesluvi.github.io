@@ -1,0 +1,52 @@
+body{
+	width: 900px;
+	height: auto; vertical-align: bottom;
+	border: 1px solid #000;
+	margin: auto;
+    background: #37BFFD;
+}
+header{
+    display: inline
+	width: 900px;
+	height: 100px;
+	border: 0px solid #F2F2F2;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 3.25em;
+}
+
+.imge1 img{
+    width: 900px;
+    height: 450px
+}
+.uno img{
+    width: 820px;
+    height: 290px;
+    padding: 40px
+}
+.uno p{
+    text-align: justify;
+    font-size: 1.25em;
+    
+}
+.dos img{
+    width: 820px;
+    height: 290px;
+    padding: 40px
+}
+.dos p{
+    text-align: justify;
+    font-size: 1.25em;
+}
+.tres img{
+    width: 820px;
+    height: 290px;
+    padding: 40px
+}
+.tres p{
+    text-align: justify;
+    font-size: 1.25em;
+}
+
